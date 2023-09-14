@@ -7,5 +7,6 @@
 </head>
 <body>
     phones number will enter here 
+    which phone you want to buy <-_->
 </body>
 </html>
