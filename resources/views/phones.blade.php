@@ -6,7 +6,9 @@
     <title>Document</title>
 </head>
 <body>
-    phones
+    yes 
+    no 
+    yes
     
 </body>
 </html>
