@@ -6,9 +6,10 @@
     <title>Document</title>
 </head>
 <body>
-    yes 
-    no 
-    yes
+    i 
+    am 
+    muslim 
+
     alhumdulliah
     
 </body>
